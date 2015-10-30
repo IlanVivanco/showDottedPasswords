@@ -1,5 +1,5 @@
 # showDottedPasswords
-Bookmarklet that let you see the passwords entered in web forms. It works with the password the the browser remembers and you dont :wink:.
+Bookmarklet that let you see the passwords entered in web forms. It works with passwords the browser remembers but you dont. :wink:
 
 ![Dotted Password Example](gmail-example.png)
 
